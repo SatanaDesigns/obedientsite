@@ -1,0 +1,47 @@
+body {
+    background-color:yellow;
+    font-family:sans-serif;
+}
+
+nav {
+    font-size:30px;
+    margin-left:25px;
+    margin-top:25px;
+    display:flex;
+    flex-direction:column;
+    position:fixed;
+}
+a {
+    text-align:center;
+}
+a:hover {
+    color:red;
+}
+
+.header {
+    text-align:center;
+    text-shadow:-4px 4px #ef3550, -8px 8px #f48fb1, -12px 12px #7e57c2, -16px 16px #2196f3, -20px 20px #26c6da, -24px 24px #43a047, -28px 28px #eeff41, -32px 32px #f9a825, -36px 36px #ff5722;
+    letter-spacing: 0.15rem;
+    color:white;
+    font-size:30px;
+}
+
+.gifs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align:center;
+}
+h2, h3 {
+    font-weight:lighter;
+}
+
+.bladee {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:15px;
+}
