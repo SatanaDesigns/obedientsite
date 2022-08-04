@@ -1,0 +1,53 @@
+body {
+    background-color:yellow;
+    font-family:sans-serif;
+}
+.journal {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+a {
+    font-size:35px;
+}
+a:hover {
+    color:red;
+}
+.back {
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+
+footer {
+    margin-top:15px;
+    font-family:sans-serif;
+}
+.separator {
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .separator::before,
+  .separator::after {
+    content: '';
+    flex: 1;
+    border-bottom: 1px solid #000;
+  }
+  
+  .separator:not(:empty)::before {
+    margin-right: .25em;
+  }
+  
+  .separator:not(:empty)::after {
+    margin-left: .25em;
+  }
+  .rainbow2 {
+    text-shadow:-4px 4px #ef3550, -8px 8px #f48fb1, -12px 12px #7e57c2, -16px 16px #2196f3, -20px 20px #26c6da, -24px 24px #43a047, -28px 28px #eeff41, -32px 32px #f9a825, -36px 36px #ff5722;
+    letter-spacing: 0.15rem;
+    color:white;
+    font-weight:bolder;
+    font-size:25px;
+    font-family:sans-serif;
+}
