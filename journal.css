@@ -6,9 +6,12 @@ body {
     display:flex;
     justify-content:center;
     align-items:center;
+    display:flex;
+    flex-direction:column;
 }
 a {
     font-size:35px;
+
 }
 a:hover {
     color:red;
