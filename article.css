@@ -8,7 +8,7 @@ body {
     text-align:center;
 }
 
-.back {
+.back, .invite {
     font-size:35px;
     display:flex;
     justify-content: center;
