@@ -115,3 +115,12 @@ footer {
   justify-content:center;
   align-items:center;
 }
+
+.back {
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+.back a {
+    font-size:35px;
+}
