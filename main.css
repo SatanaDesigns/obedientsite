@@ -104,3 +104,14 @@ footer {
   margin-bottom:15px;
   border-radius:10px;
 }
+
+.headerimg img {
+  height:300px!important;
+  width:250px!important;
+  margin-bottom:-35px;
+}
+.headerimg {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
