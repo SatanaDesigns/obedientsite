@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+        <link rel="stylesheet" type="text/css" href="/article.css">
+    </head>
+    <body>
+        <h1 class="date">- 8/8/22 -</h1>
+        <h2 class="content">im running off 3 hours of sleep, and i gotta work soon, but: ive rebranded myself as satana.
+        i went to the store today, and got a snickers icecream bar, 
+        mtn dew kickstart, and a gatorade which was nice i guess. 
+        i also designed a new logo/banner(/signature) for myself too :D check it out
+</h2>
+        <div class="imagecontent">
+            <img class="satlog" src="/img/satanalogo.png">
+            <img class="satban" src="/img/satana.png">
+        </div>
+         <h2 class="content">anyways, im prolly gonna rebrand the site to match it soon. im also gonna change the domain name. i might keep obedience.lol, and just have it as a redirect. or ill just attempt to refund it, who knows. sometimes i have the urge to carve stuff into my body, for example rn i have the urge to carve the antichrist crucifix (upside down cross) into my forehead. anyways, thats all i have to say for tonight. ttyl. </h2>
+            <div class="back">
+            <a href="/journal.html">Back</a>
+        </div>
+
+        <div class="tags">
+            <img src="https://alexisgaming95.neocities.org/buttons/antinft.gif">
+            <img src="https://alexisgaming95.neocities.org/buttons/anythingbut.gif">
+        </div>
+        <footer>
+            <div class="separator">Property of&nbsp;&nbsp;&nbsp;<span class="rainbow2">Obedient</span>.</div>
+        </footer>
+    
+</body></html>
